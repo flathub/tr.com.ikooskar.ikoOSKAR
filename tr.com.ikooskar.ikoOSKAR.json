@@ -25,10 +25,11 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ikolomiko/ikooskar-qt",
-                    "commit": "7dd84696bacbf392ee0b35715025dc1165a79de3"
+                    "commit": "04b364a401a9f7caacf1eaf39ee21d5a635befc3"
                 }
             ]
         }
     ]
 }
+
 
